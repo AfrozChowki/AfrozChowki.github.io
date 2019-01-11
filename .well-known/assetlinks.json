@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.trackersgroup.tracky.tracky",
+    "sha256_cert_fingerprints":
+    ["33:55:E8:D8:24:A5:E9:98:04:24:1E:E3:6D:F9:CE:02:1B:3D:72:58:23:C6:F4:23:4D:51:F1:97:DA:A4:F0:C8"]
+  }
+}]
